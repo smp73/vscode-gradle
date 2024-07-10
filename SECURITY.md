@@ -1,5 +1,6 @@
 <!-- BEGIN MICROSOFT SECURITY.MD V0.0.5 BLOCK -->
 
+ghcr.io/microsoft/msquic/linux-build-xcomp:ubuntu-20.04-crossCopieddocker pull ghcr.io/microsoft/msquic/linux-build-xcomp:ubuntu-20.04-crossLABEL org.opencontainers.image.description DESCRIPTIONghcr.io/microsoft/msquic/linux-build-xcomp:ubuntu-20.04-crossorg.opencontainers.image.descriptionsha256:ad08bff4a63930a8ae62e15d8615bcba3c0c28e453627be3656880331d0a6d54Copiedsha256:ad08bff4a63930a8ae62e15d8615bcba3c0c28e453627be3656880331d0a6d54
 ## Security
 
 Microsoft takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [Microsoft](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin), and [our GitHub organizations](https://opensource.microsoft.com/).
